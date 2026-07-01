@@ -47,3 +47,29 @@ Recommended Follow-Up:
 - Monitor Blind for quality deterioration. If Blind degrades further, Unfortunately becomes the obvious alternative for anyone outside FAANG who wants candid employer intel.
 - Track Levels.fyi's Talent Pool product — if it grows, there may be a complementary positioning opportunity ("You checked Levels for comp, check Unfortunately for culture").
 ---
+
+---
+Date: 2026-07-01
+Worker: Product Intelligence
+Researched: Public reactions to Unfortunately across Product Hunt, Reddit, Twitter/X, Hacker News, Dev.to; broader cultural conversation around reverse hiring and hiring frustration communities.
+
+Important Findings:
+1. Unfortunately has zero public presence on all major platforms as of 2026-07-01. No Product Hunt listing, no Reddit mentions, no HN threads, no Twitter/X discussion.
+2. Product is at very early traction: 2 interviews conducted, 7 rejections sent, 13 companies in pool, avg score 60/100. Public Beta V0.4.
+3. The market has already validated the core premise. The UNO-reverse rejection trend went massively viral in 2025-2026. "Keane" went viral in May 2026 for sending a reverse rejection email; spread across Complex, LinkedIn, Instagram, X. r/recruitinghell generates ~4,000 complaint posts/month; the #1 complaint is HOW rejection is delivered (automated, impersonal, careless).
+4. The gap is not product. It's distribution. Unfortunately productizes behavior people are already doing and celebrating.
+5. Two sharp marketing angles discovered: "They used AI to screen you. We use AI to screen them." and "You got the 1AM form letter. Now send one back."
+6. Glassdoor trust is eroding (Reddit threads consistently call it unreliable). Unfortunately's community-scored employer database could fill this gap long-term.
+7. CNBC validated "reverse recruiting" as mainstream (March 2026). Unfortunately should own adjacent SEO: "reverse interview questions", "rejection letter to employer."
+
+Files Updated:
+- /docs/intelligence/product-feedback.md (CREATED — 10 entries: product baseline, platform presence audit, audience pain map, market signals)
+- /docs/intelligence/opportunities.md (APPENDED — 6 new entries: r/recruitinghell seeding, Product Hunt launch, Show HN, viral newsjacking, AI marketing angle, SEO opportunity)
+
+Recommended Follow-Up:
+- HIGH: Plan Product Hunt launch immediately. Product is ready enough. Delay is costly.
+- HIGH: Monitor r/recruitinghell for the next viral reverse-rejection story. Pre-draft authentic comment linking unfortunately.life.
+- MEDIUM: Draft Show HN submission. Lead with mission, not satire.
+- MEDIUM: A/B test "They used AI to screen you. We use AI to screen them." against current homepage copy.
+- LOW: Assign SEO worker to research "reverse interview questions" search volume and content strategy.
+---
