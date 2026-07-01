@@ -93,3 +93,75 @@ Approach: Encourage users to share their Unfortunately rejection letters. Create
 Confidence: HIGH
 Recommended Action: Build sharing functionality that makes it easy to post rejection letters directly to LinkedIn/Twitter with Unfortunately branding. The content markets itself.
 ---
+
+---
+Date: 2026-07-01
+Agent: Product Intelligence
+Opportunity: r/recruitinghell community seeding
+Type: community
+Audience: ~4,000 new complaint posts/month; highly frustrated job seekers pre-aligned with Unfortunately's mission
+Relevance: Unfortunately directly answers the #1 pain (manner of rejection: automated, impersonal, careless). The product gives candidates a tool to respond in kind.
+Approach: Wait for the next viral reverse-rejection story (happens every 2-3 months). Comment authentically with a link. Do not spam. One well-placed comment on a high-upvote post outperforms 100 direct submissions.
+Confidence: HIGH
+Recommended Action: Monitor r/recruitinghell for posts about "reverse rejection", "uno reverse job", "I rejected them back". Pre-draft an authentic comment with unfortunately.life link.
+---
+
+---
+Date: 2026-07-01
+Agent: Product Intelligence
+Opportunity: Product Hunt launch
+Type: launch
+Audience: Indie hackers, early adopters, tech workers
+Relevance: Unfortunately has zero PH presence. Hiring tools category is active (Hirecarta, AI mock interview tools in 2025-2026). A well-executed launch is the highest-leverage single awareness event available right now.
+Approach: Launch on Tuesday after midnight SF time. Strong GIF of the reverse interview flow. Emotional hook: "You've gotten enough rejection emails. Now it's your turn."
+Confidence: HIGH
+Recommended Action: Schedule PH launch. Read /playbooks/product_hunt.md before executing.
+---
+
+---
+Date: 2026-07-01
+Agent: Product Intelligence
+Opportunity: Show HN submission
+Type: community
+Audience: Hacker News technical community
+Relevance: Recent HN thread on AI interviews included comment: "The power imbalance is already so far tipped to the employer side." Unfortunately is a direct product answer. HN has not seen this product at all.
+Approach: "Show HN: Unfortunately - a reverse interview platform where candidates interview and reject employers." Lead with mission. Acknowledge the satire-vs-real-data tension.
+Confidence: MEDIUM
+Recommended Action: Draft the Show HN post. Engage in comments for 3 hours after submitting.
+---
+
+---
+Date: 2026-07-01
+Agent: Product Intelligence
+Opportunity: Viral moment newsjacking - reverse rejection email stories
+Type: content
+Audience: Everyone who sees viral hiring content on Twitter/X, LinkedIn, Reddit, Instagram
+Relevance: "Keane UNO reverse" story (May 2026) went viral across Complex, LinkedIn, Instagram, X. This pattern repeats every 2-3 months. Unfortunately productizes exactly what Keane did manually.
+Approach: When a viral reverse-rejection story appears, respond within 24 hours: "Someone built the tool for this: unfortunately.life"
+Confidence: HIGH
+Recommended Action: Set Google Alert for "reverse rejection email" and "uno reverse job". Assign response ownership.
+---
+
+---
+Date: 2026-07-01
+Agent: Product Intelligence
+Opportunity: "They used AI to screen you. We use AI to screen them." campaign
+Type: content
+Audience: Job seekers frustrated by AI-only hiring screens
+Relevance: 1 in 5 employers use AI for initial interviews (2025). Fortune and Reddit document growing backlash against AI-only screens as "dehumanizing." Unfortunately puts AI on the candidate's side.
+Approach: Use this exact line as a campaign hook. A/B test against current "Reject companies before they reject you" headline.
+Confidence: HIGH
+Recommended Action: Test in social posts first. If engagement is strong, update homepage copy.
+---
+
+---
+Date: 2026-07-01
+Agent: Product Intelligence
+Opportunity: SEO - "reverse interview questions" and "rejection letter to employer"
+Type: directory
+Audience: Job seekers searching for reverse interview content
+Relevance: "Reverse interview" and "reverse recruiting" are growing search terms with CNBC mainstream validation (March 2026). Unfortunately could own this SEO space.
+Approach: Create content page: "50 reverse interview questions to ask employers." Positions Unfortunately as authoritative source.
+Confidence: MEDIUM
+Recommended Action: Assign to SEO worker for search volume analysis and content plan.
+---
