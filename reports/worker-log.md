@@ -73,3 +73,42 @@ Recommended Follow-Up:
 - MEDIUM: A/B test "They used AI to screen you. We use AI to screen them." against current homepage copy.
 - LOW: Assign SEO worker to research "reverse interview questions" search volume and content strategy.
 ---
+
+
+---
+Date: 2026-07-01
+Worker: QA Intelligence (Comet)
+
+What was researched:
+- Full live site audit of https://www.unfortunately.life
+- Pages tested: Homepage, /companies, /companies/google, /companies/amazon, /community, /profile, /membership, /companies/nominate, /rejections/[3 letters], /interview/google, /legal/disclaimer, /nonexistent-page (404)
+- Flows tested: Search/filter on companies directory, attempted interview start, rejection letter view + share, profile, credit limit behavior, category filtering
+- Read: README.md, KNOWN_LIMITATIONS.md, docs/intelligence/bugs.md (initialization entry)
+
+Important Findings:
+1. CRITICAL: Interview page (/interview/[slug]) hangs infinitely in "Loading interview..." when credits are exhausted. No timeout, error, or redirect.
+2. HIGH: Daily credit counter is inconsistent across 3 surfaces: nav says "3 remaining", profile says "0 used today", membership says "3 of 5 remaining", and clicking Begin Interview shows a "committee concluded" toast. Stale client state vs. server state mismatch.
+3. HIGH: ALL generated rejection reasons contain a doubled article — "The the [archetype] energy was, frankly, too much." Confirmed across all 7 visible rejections. Template/generation bug.
+4. HIGH: Community page "Most transparent" and "Most evasive" lists show the same companies with identical scores in swapped order. Logically contradictory — data array likely passed to wrong component.
+5. MEDIUM: Social share text is truncated. Ends with dangling `"Company,"` with no rejection reason included. Core virality mechanic is broken.
+6. MEDIUM: Google company logo renders as broken blue square image placeholder. All other companies use emoji correctly.
+7. MEDIUM: Rejection letter body text has "- Masked- Man" username artifact appended inline at the end of letter content rather than rendered as a separate UI element.
+8. LOW: 404 page is unbranded/generic. Strong quick-win opportunity for satirical copy.
+9. LOW: Search field shows Mac-only command-K shortcut hint on all platforms.
+10. LOW: Airbnb and Stripe miscategorized as STARTUP (both are mature public/private companies).
+11. LOW: Profile reset timestamp shows past date (6/30 when today is 7/1) in non-ISO locale format.
+12. LOW: Homepage stats ticker duplicates all entries — may be intentional for infinite-scroll marquee, needs design confirmation.
+13. MEDIUM: "Post experience" form has no visible client-side validation, submit button always active.
+
+Files Updated:
+- /docs/intelligence/bugs.md (appended 13 bug entries with full structured format)
+
+Recommended Follow-Up:
+- Fix #1 (interview hang) and #3 (double "the") immediately — first-impression damage
+- Fix #2 (credit inconsistency) — users think they have credits but can't interview
+- Fix #5 (share text truncation) — broken virality loop
+- Fix #4 (transparent/evasive data) — undermines community credibility
+- Fix #7 (username artifact in letter body)
+- Assign mobile QA pass — not tested in this session; flagged in KNOWN_LIMITATIONS.md as unconfirmed
+- Add branded 404 page — quick win for brand consistency
+---
