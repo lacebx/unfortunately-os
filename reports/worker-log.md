@@ -112,3 +112,35 @@ Recommended Follow-Up:
 - Assign mobile QA pass — not tested in this session; flagged in KNOWN_LIMITATIONS.md as unconfirmed
 - Add branded 404 page — quick win for brand consistency
 ---
+
+---
+
+Date: 2026-07-01
+Worker: Employer Intelligence Worker (AI Agent)
+Researched: High-profile employer profiles for Unfortunately simulation library
+
+Important Findings:
+1. Amazon RTO controversy (2024-2025): 91% employee dissatisfaction, 48% applied to other jobs. Theory that RTO was a covert headcount reduction strategy widely discussed (Stanford economist Nicholas Bloom). 5-day mandate remains in effect. Perfect reverse interview material.
+2. Google hiring process is broken: documented 8-month timelines, no-show interviewers, ghost listings, post-loop ghosting. Hiring Committee opaqueness and team matching limbo are systemic. High-traffic reverse interview target.
+3. Goldman Sachs 2025 quarterly loyalty declaration: new policy requiring junior bankers to confirm every 3 months they have not accepted outside offers. Breaking story. First-mover opportunity for Unfortunately content.
+4. Meta DEI reversal (January 2025) and $46.5B Reality Labs losses provide sharp, specific reverse interview angles for candidates.
+5. Tesla Supercharger team firing (April 2024, 500+ employees, no warning, partially reversed) is a defining employer brand event. "First principles" culture contradicted by this people management decision.
+6. Finance candidates are underserved by interview prep platforms. Goldman Sachs opens a new vertical for Unfortunately beyond tech.
+
+Files Updated:
+- docs/intelligence/employers/amazon.md (CREATED)
+- docs/intelligence/employers/google.md (CREATED)
+- docs/intelligence/employers/meta.md (CREATED)
+- docs/intelligence/employers/tesla.md (CREATED)
+- docs/intelligence/employers/goldman-sachs.md (CREATED)
+- reports/worker-log.md (APPENDED)
+
+Recommended Follow-Up:
+- HIGH: Add McKinsey employer profile (consulting culture, case interview process, up-or-out model)
+- HIGH: Add Apple employer profile (secrecy culture, NDA requirements, variable hiring process)
+- HIGH: Build reverse interview question banks for each employer profile
+- MEDIUM: Add Microsoft employer profile (Satya Nadella growth mindset vs. Ballmer-era stack ranking)
+- MEDIUM: Create docs/intelligence/employers/README.md index listing all employer profiles and status
+- LOW: Add Uber/Lyft (gig economy controversy, engineering culture post-Travis Kalanick)
+
+---
